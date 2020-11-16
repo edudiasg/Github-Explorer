@@ -15,6 +15,9 @@
     <br>
 </p>
 
+<img src="screenshot/ge-1.png" alt="github-explorer-dashboard">
+<img src="screenshot/ge-2.png" alt="github-explorer-repository">
+
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [ReactJS](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
